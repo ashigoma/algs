@@ -1,14 +1,14 @@
 
 | case         | L4E                             | ML4E-R                       | ML4E-L                        |
 | ------------ | ------------------------------- | ---------------------------- | ----------------------------- |
-| sune         | ![L' U L U L' U L](imgs/pyraminx-6a18a361a6.svg) | ![U R' U L' U' L R](imgs/pyraminx-3731d38726.svg) | ![L U' S L'](imgs/pyraminx-75de239fe6.svg) |
-| anti sune    | ![R U' R' U' R U' R'](imgs/pyraminx-88cd5cb9e1.svg) | ![R' U H R](imgs/pyraminx-8dda082243.svg) | ![U' L U' R U R' L'](imgs/pyraminx-af6f26975c.svg) |
-| lefty bars   | ![R' U' L' U L R](imgs/pyraminx-70920c4e58.svg) | ![U R' H R](imgs/pyraminx-f8b03e4930.svg) | ![U' L H L'](imgs/pyraminx-ca9e92c05a.svg) |
-| righty bars  | ![L U R U' R' L'](imgs/pyraminx-b63e3585ee.svg) | ![U R' S R](imgs/pyraminx-067ea3ff83.svg) | ![U' L S L'](imgs/pyraminx-e2b543fd6d.svg) |
-| sledge       | ![S](imgs/pyraminx-bf1aafe708.svg) |                              | ![L U' L'](imgs/pyraminx-c974ebcb23.svg) |
-| hedge        | ![H](imgs/pyraminx-8176f8f78e.svg) | ![R' U R](imgs/pyraminx-6f06fd1a77.svg) |                               |
-| cw           | ![H R U' R'](imgs/pyraminx-7e6c450ead.svg) |                              | ![U' L U L'](imgs/pyraminx-522a3aa365.svg) |
-| ccw          | ![S L' U L](imgs/pyraminx-df2377721a.svg) | ![U R' U' R](imgs/pyraminx-0143a79aea.svg) |                               |
+| sune         | ![L' U L U L' U L](imgs/pyraminx-6a18a361a6.svg) |                              | ![L U' L'](imgs/pyraminx-c974ebcb23.svg) |
+| anti sune    | ![R U' R' U' R U' R'](imgs/pyraminx-88cd5cb9e1.svg) | ![R' U R](imgs/pyraminx-6f06fd1a77.svg) |                               |
+| lefty bars   | ![R' U' L' U L R](imgs/pyraminx-70920c4e58.svg) |                              | ![U' L U L'](imgs/pyraminx-522a3aa365.svg) |
+| righty bars  | ![L U R U' R' L'](imgs/pyraminx-b63e3585ee.svg) | ![U R' U' R](imgs/pyraminx-0143a79aea.svg) |                               |
+| sledge       | ![S](imgs/pyraminx-bf1aafe708.svg) | ![U R' U L' U' L R](imgs/pyraminx-3731d38726.svg) | ![L U' S L'](imgs/pyraminx-75de239fe6.svg) |
+| hedge        | ![H](imgs/pyraminx-8176f8f78e.svg) | ![R' U H R](imgs/pyraminx-8dda082243.svg) | ![U' L U' R U R' L'](imgs/pyraminx-af6f26975c.svg) |
+| cw           | ![H R U' R'](imgs/pyraminx-7e6c450ead.svg) | ![U R' H R](imgs/pyraminx-f8b03e4930.svg) | ![U' L H L'](imgs/pyraminx-ca9e92c05a.svg) |
+| ccw          | ![S L' U L](imgs/pyraminx-df2377721a.svg) | ![U R' S R](imgs/pyraminx-067ea3ff83.svg) | ![U' L S L'](imgs/pyraminx-e2b543fd6d.svg) |
 | righty       | ![R U' R'](imgs/pyraminx-b3717efca6.svg) | ![R' U' L' U' L2 R' L' R2](imgs/pyraminx-c44fc97dbe.svg) | ![L U' H L'](imgs/pyraminx-bee66761d1.svg) |
 | lefty        | ![L' U L](imgs/pyraminx-e1bee32dbc.svg) | ![R' U S R](imgs/pyraminx-ef407a80df.svg) | ![L U R U R2' L R L2'](imgs/pyraminx-836ca21ca6.svg) |
 | sexy         | ![U' R U R'](imgs/pyraminx-8208043d96.svg) | ![R' H U' R](imgs/pyraminx-0370229737.svg) | ![L S U L'](imgs/pyraminx-affd776b6d.svg) |
