@@ -1,18 +1,18 @@
 
 | case         | L4E                             | ML4E-R                       | ML4E-L                        |
 | ------------ | ------------------------------- | ---------------------------- | ----------------------------- |
-| sune         | `L' U L U L' U L`               |                              | `L U’ L’`                     |
-| anti sune    | `R U' R' U' R U' R'`            | `R’ U R`                     |                               |
-| lefty bars   | `R’ U’ L’ U L R`                |                              | `U’ L U L’`                   |
-| righty bars  | `L U R U’ R’ L’`                | `U R’ U’ R`                  |                               |
+| sune         | `L' U L U L' U L`               |                              |                               |
+| anti sune    | `R U' R' U' R U' R'`            |                              |                               |
+| lefty bars   | `R’ U’ L’ U L R`                |                              |                               |
+| righty bars  | `L U R U’ R’ L’`                |                              |                               |
 | sledge       | `S`                             | `U R’ U L’ U' L R`           | `L U’ S L’`                   |
 | hedge        | `H`                             | `R’ U H R`                   | `U’ L U’ R U R’ L’`           |
 | cw           | `H R U’ R’`                     | `U R’ H R`                   | `U’ L H L’`                   |
 | ccw          | `S L’ U L`                      | `U R’ S R`                   | `U’ L S L’`                   |
-| righty       | `R U’ R’`                       | `R' U' L' U' L2 R' L' R2`    | `L U' H L'`                   |
-| lefty        | `L’ U L`                        | `R' U S R`                   | `L U R U R2' L R L2'`         |
-| sexy         | `U’ R U R’`                     | `R' H U' R`                  | `L S U L'`                    |
-| ugly         | `U L’ U' L`                     | `R’ L’ U L R U’ R’ L’ U L R` | `L R U’ R’ L’ U L R U’ R’ L’` |
+| righty       | `R U’ R’`                       |                              | `L U’ L’`                     |
+| lefty        | `L’ U L`                        | `R’ U R`                     |                               |
+| sexy         | `U’ R U R’`                     |                              | `U’ L U L’`                   |
+| ugly         | `U L’ U' L`                     | `U R’ U’ R`                  |                               |
 | 2 flip       | `H U’ R U R’`                   |                              |                               |
 | dr flip      | `H L’ U L`                      | `R' U' L' U' L2 R' L' R2`    | `L U' H L'`                   |
 | dl flip      | `S R U’ R’`                     | `R' U S R`                   | `L U R U R2' L R L2'`         |
